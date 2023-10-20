@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "biplotEZ"]
 	path = biplotEZ
-	url = https://github.com/cran/biplotEZ
+	url = https://github.com/muvisu/biplotez
