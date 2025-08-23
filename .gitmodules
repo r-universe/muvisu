@@ -5,3 +5,6 @@
 [submodule "biplotEZ"]
 	path = biplotEZ
 	url = https://github.com/muvisu/biplotez
+[submodule "moveEZ"]
+	path = moveEZ
+	url = https://github.com/muvisu/moveez
